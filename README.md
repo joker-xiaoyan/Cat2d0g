@@ -10,4 +10,4 @@
 ```
 ## 视频演示
 
-[demo](https://private-user-images.githubusercontent.com/89376703/305162512-771c2e88-afd8-493d-a575-7e10149837dd.mp4)
+[demo](https://github.com/joker-xiaoyan/Cat2d0g/blob/main/C2-demo.mp4)
