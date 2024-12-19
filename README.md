@@ -10,5 +10,4 @@
 ```
 ## 视频演示
 
-
-基本功能演示：[here](https://github.com/joker-xiaoyan/Cat2d0g/blob/main/C2%E5%B1%95%E7%A4%BA.mp4).
+[demo](https://private-user-images.githubusercontent.com/89376703/305162512-771c2e88-afd8-493d-a575-7e10149837dd.mp4)
