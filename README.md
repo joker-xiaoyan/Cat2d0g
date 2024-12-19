@@ -9,4 +9,4 @@
 7、内置命令列表：getuid、curl、find、ps、cat、cd、history、pwd、ipconfig、netstat多种命令。
 ```
 
-基本功能演示：https://github.com/joker-xiaoyan/Cat2d0g/blob/main/C2%E5%B1%95%E7%A4%BA.mp4
+基本功能演示：![Video Example](https://github.com/joker-xiaoyan/Cat2d0g/blob/main/C2%E5%B1%95%E7%A4%BA.mp4)
