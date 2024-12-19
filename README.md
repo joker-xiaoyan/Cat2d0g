@@ -9,3 +9,4 @@
 7、内置命令列表：getuid、curl、find、ps、cat、cd、history、pwd、ipconfig、netstat多种命令。
 ```
 
+基本功能演示：
