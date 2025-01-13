@@ -1,6 +1,6 @@
 ## 主要功能
 - 不开源，内部团队使用，适用于授权范围内的红蓝演练，攻防对抗，钓鱼等合法途径。
-- 信标使用多套语言生成（使用rust是为了潮流、使用golang是为了解决Linux跨平台、使用C++是为了Rootkit...），包括但不限于Rust、Golang、C/C++、C#。
+- 信标使用多套语言生成（意味着你可以针对你擅长的语言进行二开，或者你觉得存在非行为特征暴露了就切换另一套）（使用rust是为了潮流、使用golang是为了解决Linux跨平台、使用C++是为了Rootkit...），包括但不限于Rust、Golang、C/C++、C#。
 - 支持Stager（10~20k）分阶段加载和Stagerless无阶段加载
 - 支持EXE生成、shellcode生成/dll生成等x64/x86架构的随机化生成、自毁式（过卡巴）的信标（Linux需要手动安装如Golang等编译器）；支持插件（目前提供inline-ExecutePE、Execute-Assembly、beaconinit和shell命令）；支持动态Profile（使用Burpsuite样式来直观看到你的Profile）
 - 常规：文件上传下载（可以指定GET/POST，不限于大文件）、创建/删除、Execute等
